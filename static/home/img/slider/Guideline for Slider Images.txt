@@ -1,0 +1,1 @@
+Slider Images should maintain 2:1 ratio for width and Height.
